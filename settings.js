@@ -3,7 +3,7 @@ const fs = require("fs")
 
 
 //
-global.domain = 'kyuu.tokopannep.xyz'
+global.domain = 'cyberoren.my.id'
 global.apikey = 'ptla_mPnGPknLClnC5TPcGIKG0O9e60wJInG0FXruoRsv4Bd'
 global.capikey = 'ptlc_B9Jod73kSTQZGbqwc2yheWw7VGoLgL37gQYFJrASTrr'
 //documents variants
@@ -29,7 +29,7 @@ global.ownernomer = "6281374347075" //ur owner number2
 global.ownername = "JXXZY" //ur owner name
 global.ytname = "@JXXZY" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Kalimantan Selatan, Indonesia " //ur location
+global.location = "Kota Bandung, Indonesia " //ur location
 
 //new
 global.botname = "JXXZY ✆"
@@ -40,7 +40,7 @@ global.ownerweb = "https://www.youtube.com/@JXXZY"
 global.websitex = "https://Bakso kontol"
 global.wagc = "https://www.youtube.com/@JXXZY"
 global.themeemoji = '🚩'
-global.wm = "𝙳𝙰𝚁𝚆𝙸𝙽"
+global.wm = "JXXZY"
 global.botscript = 'kamu nanyeak escehnya?' //script link
 global.packname = "JXXZY"
 global.author = "JXXZY"
