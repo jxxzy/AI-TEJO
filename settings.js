@@ -3,7 +3,7 @@ const fs = require("fs")
 
 
 //
-global.domain = 'cyberoren.my.id'
+global.domain = 'kyuu.tokopannep.xyz'
 global.apikey = 'ptla_mPnGPknLClnC5TPcGIKG0O9e60wJInG0FXruoRsv4Bd'
 global.capikey = 'ptlc_B9Jod73kSTQZGbqwc2yheWw7VGoLgL37gQYFJrASTrr'
 //documents variants
@@ -27,23 +27,23 @@ global.APIKeys = {
 global.owner = ['6281374347075'] //ur owner number
 global.ownernomer = "6281374347075" //ur owner number2
 global.ownername = "JXXZY" //ur owner name
-global.ytname = "@JXXZY" //ur yt chanel name
+global.ytname = "@JXXZYMIX" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Kota Bandung, Indonesia " //ur location
+global.location = "Kalimantan Selatan, Indonesia " //ur location
 
 //new
 global.botname = "JXXZY ✆"
 global.ownernumber = '6281374347075'
 global.ownername = '6281374347075'
 global.ownerNumber = ["6281374347075@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@JXXZY"
+global.ownerweb = "https://www.youtube.com/@JXXZYMIX"
 global.websitex = "https://Bakso kontol"
-global.wagc = "https://www.youtube.com/@JXXZY"
+global.wagc = "https://www.youtube.com/@JXXZYMIX"
 global.themeemoji = '🚩'
-global.wm = "JXXZY"
+global.wm = "𝙳𝙰𝚁𝚆𝙸𝙽"
 global.botscript = 'kamu nanyeak escehnya?' //script link
-global.packname = "JXXZY"
-global.author = "JXXZY"
+global.packname = "𝙳𝙰𝚁𝚆𝙸𝙽"
+global.author = "𝙳𝙰𝚁𝚆𝙸𝙽"
 global.creator = "6281374347075@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0

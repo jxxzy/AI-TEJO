@@ -2481,7 +2481,7 @@ _${runtime(process.uptime())}_
 │ ◦ .*ᴘᴜꜱʜᴍᴇɴᴜ*
 └ ◦ .*ᴄʀᴇᴅɪᴛ*
 
-𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗬𝗧 : JXXZY* ✆*
+𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗬𝗧 : *JXXZY ✆*
 _youtube.com/@JXXZYMIX_
 
 `
